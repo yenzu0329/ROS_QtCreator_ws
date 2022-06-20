@@ -1,0 +1,85 @@
+(name, numbers, id of cabinet)
+Apple_20_11
+Pear_17_11
+Bananas_25_12
+Orange_19_13
+Barry_31_14
+Grape_10_14
+Melon_33_15
+Lemon_15_16
+Lime_13_16
+
+Milk_30_29
+Water_42_29
+Apple Juice_27_30
+Orange Juice_16_30
+Soda_41_31
+Coffee_23_32
+Black Tea_34_33
+Green Tea_37_33
+Milk_Tea_41_34
+Beer_29_35
+Wine_18_35
+
+Salad Green_24_17
+Broccoli_26_18
+Carrot_22_18
+Cucumber_31_18
+Garlic_32_19
+Lettuce_18_19
+Tomatoe_19_20
+Mushroom_34_20
+Onion_31_21
+Pepper_26_21
+Potatoe_28_21
+Squash_25_22
+Zucchini_29_22
+
+Hummu_34_38
+Cookie_36_39
+Chip_27_40
+Dip_29_41
+Cracker_30_42
+Candy_32_43
+Chocolate_37_43
+
+Dog Food_13_36
+Cat Food_21_37
+Cat Litter_18_37
+
+Garbage Bag_34_0
+Laundry Soap_25_2
+Dryer Sheet_26_1
+Bleach_16_2
+Dish Soap_17_3
+Hand Soap_19_3
+Glass Cleaner_21_4
+Sponge_32_5
+Batteries_40_6
+Light Bulb_37_6
+
+Sugar_41_7
+Flour_20_8
+Vanilla_19_9
+Pancake Mix_31_10
+
+Peanut Butter_23_51
+Jelly_24_44
+Honey_21_46
+Ketchup_17_48
+Mustard_15_50
+Mayo_19_49
+Salsa_20_47
+Salt_23_45
+Pepper_16_45
+
+Soap_24_23
+Shampoo_16_23
+Pain Rellever_24
+Conditioner_14_25
+Razor_18_25
+Shaving Cream_31_26
+Deodorant_34_27
+Lotion_25_27
+Toothpaste_27_28
+Floss_29_28

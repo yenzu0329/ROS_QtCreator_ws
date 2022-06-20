@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map.png</file>
+        <file>robot.png</file>
+        <file>search.png</file>
+        <file>goods.txt</file>
+        <file>cabinet.txt</file>
+    </qresource>
+</RCC>
