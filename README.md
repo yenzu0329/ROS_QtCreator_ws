@@ -1,4 +1,4 @@
-# ros_qtcreator_ws
+# ROS_QtCreator_ws
 In this repo, we make a GUI that allows customers to remotely control the movement of the robot
 
 【demo video】
